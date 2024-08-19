@@ -1,4 +1,5 @@
-# a3psc
+# A3 PROGRAMAÇÃO DE SOLUÇÕES COMPUTACIONAIS 
+
 Entrega do código do trabalho A3, da UC de programação de soluções computacionais.
 O objetivo deste programa é facilitar a realização de doações, cadastrando Ongs e usuarios, tendo um envio de mensagem entre os mesmos. 
 
